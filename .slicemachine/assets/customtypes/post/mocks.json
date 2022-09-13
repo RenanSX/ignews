@@ -1,0 +1,22 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "post",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Est voluptate officia minim aliqua aute do proident id. Proident ipsum laboris enim ea eu anim minim officia aliquip ex velit commodo. Occaecat exercitation amet qui quis.",
+        "spans": []
+      }
+    ]
+  }
+}
